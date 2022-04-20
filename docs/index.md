@@ -3,20 +3,26 @@
   <img src="https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg" width="225" height="300">
 </p>
 
-Hello and welcome to my webpage! My name is Bradley Diep and I'm currently in my 4th year at CSUF majoring in computer science. <br> <br> 
+Hello and welcome to my webpage! My name is Bradley Diep and I'm currently in my 4th year at CSUF majoring in computer science. <br> 
 
 I've always had a passion for drawing and designing things so I decided to apply my passion into computer science. When I started out as a freshman at CSUF, I was convinced that CS was just not cut out for me and that I should have been an animation major instead. However, I still chose to endure my CS classes and discovered that CS was actually pretty neat. I learned about game design, HTML, CSS, and other CS things related to my passion for drawing and design. I'm still not an expert at them though, but I'm still curious about how I can grow with my current knowledge. 
 
 When I'm not coding, I usually watch anime, watch videos on Youtube, or hang out with my friends. I still try to keep up with drawing on the side, but college has not made that easy for me. There's so many things I want to create, but I just have to do what I can while also making the most out of it. <br> <br>
 
 ## Drawings I have made:
-<img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166043-54d5f348-a839-4445-a8f9-dc770558b406.jpg" width="200" height="200">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166043-54d5f348-a839-4445-a8f9-dc770558b406.jpg" width="200" height="200">
+</p>
 
 ## Pictures of me and my friends:
-<img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225"> <br> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225"> 
+</p> <br> 
 
 I'm especially proud of this picture because I had a chance to meet DisguisedToast and Sydeon from OfflineTV.
-<img src="https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg" width="400" height="300">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg" width="400" height="300">
+</p> <br>
 
 ## Welcome to GitHub Pages
 
