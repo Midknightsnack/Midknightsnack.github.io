@@ -1,8 +1,8 @@
 # About Me
 <p align="center">
-  <img src=/images/20200715_135142.jpg width="225" height="300">
-  <img src=https://user-images.githubusercontent.com/42824199/164181060-0053f0e6-2019-4e39-925b-cd44f71317a9.jpg width="225" height="300">
+  <img src=https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg width="225" height="300">
 </p>
+
 Hello and welcome to my webpage! My name is Bradley Diep and I'm currently in my 4th year at CSUF majoring in computer science. <br> <br> 
 
 I've always had a passion for drawing and designing things so I decided to apply my passion into computer science. When I started out as a freshman at CSUF, I was convinced that CS was just not cut out for me and that I should have been an animation major instead. However, I still chose to endure my CS classes and discovered that CS was actually pretty neat. I learned about game design, HTML, CSS, and other CS things related to my passion for drawing and design. I'm still not an expert at them though, but I'm still curious about how I can grow with my current knowledge. 
