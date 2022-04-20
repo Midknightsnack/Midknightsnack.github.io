@@ -1,6 +1,6 @@
 # About Me
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg width="225" height="300">
+  <img src=https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg width="150" height="200">
 </p>
 
 Hello and welcome to my webpage! My name is Bradley Diep and I'm currently in my 4th year at CSUF majoring in computer science. <br> <br> 
