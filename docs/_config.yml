@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Bradley Diep's homepage
 description: Front-End Developer - UX/UI Designer - Game Designer
+layout: single
+classes: wide
