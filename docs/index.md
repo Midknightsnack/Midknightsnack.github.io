@@ -1,6 +1,6 @@
 # About Me
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg width="150" height="200">
+  <img src=https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.JPG width="225" height="300">
 </p>
 
 Hello and welcome to my webpage! My name is Bradley Diep and I'm currently in my 4th year at CSUF majoring in computer science. <br> <br> 
@@ -46,6 +46,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Profile Pic](https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg)
+<img src=https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg width="225" height="300">
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
