@@ -1,6 +1,6 @@
-### About Me
+# About Me
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg width="225" height="300">
+  <img src="https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg" width="225" height="300">
 </p>
 
 Hello and welcome to my webpage! My name is Bradley Diep and I'm currently in my 4th year at CSUF majoring in computer science. <br> <br> 
@@ -10,15 +10,14 @@ I've always had a passion for drawing and designing things so I decided to apply
 When I'm not coding, I usually watch anime, watch videos on Youtube, or hang out with my friends. I still try to keep up with drawing on the side, but college has not made that easy for me. There's so many things I want to create, but I just have to do what I can while also making the most out of it. <br> <br>
 
 ## Drawings I have made:
-<img src=https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG width="225" height="200"> <img src=https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg width="200" height="200"> <img src=https://user-images.githubusercontent.com/42824199/164166043-54d5f348-a839-4445-a8f9-dc770558b406.jpg width="200" height="200">
+<img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166043-54d5f348-a839-4445-a8f9-dc770558b406.jpg" width="200" height="200">
 
 ## Pictures of me and my friends:
-<img src=https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png width="200" height="200"><img src=https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg width="200" height="225"> <br> 
+<img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225"> <br> 
 
 I'm especially proud of this picture because I had a chance to meet DisguisedToast and Sydeon from OfflineTV.
-<img src=https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg width="400" height="300">
+<img src="https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg" width="400" height="300">
 
-<img src="https://user-images.githubusercontent.com/42824199/163117442-5fb5132a-96c8-4386-83e0-d1be5f781b5c.jpg" width="100" height="100"> <img src="https://user-images.githubusercontent.com/42824199/163119089-dd5cd1a8-00a7-4005-adb6-0a7d76ec8744.PNG" width="100" height="100">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Midknightsnack/Midknightsnack.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -46,8 +45,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Profile Pic](https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg)
-<img src=https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg width="225" height="300">
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
