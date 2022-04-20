@@ -1,6 +1,7 @@
 # About Me
 <p align="center">
   <img src=/images/20200715_135142.jpg width="225" height="300">
+  <img src=https://user-images.githubusercontent.com/42824199/164181060-0053f0e6-2019-4e39-925b-cd44f71317a9.jpg width="225" height="300">
 </p>
 Hello and welcome to my webpage! My name is Bradley Diep and I'm currently in my 4th year at CSUF majoring in computer science. <br> <br> 
 
@@ -16,6 +17,8 @@ When I'm not coding, I usually watch anime, watch videos on Youtube, or hang out
 
 I'm especially proud of this picture because I had a chance to meet DisguisedToast and Sydeon from OfflineTV.
 <img src=https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg width="400" height="300">
+
+<img src="https://user-images.githubusercontent.com/42824199/163117442-5fb5132a-96c8-4386-83e0-d1be5f781b5c.jpg" width="100" height="100"> <img src="https://user-images.githubusercontent.com/42824199/163119089-dd5cd1a8-00a7-4005-adb6-0a7d76ec8744.PNG" width="100" height="100">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Midknightsnack/Midknightsnack.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
