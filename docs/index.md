@@ -1,3 +1,21 @@
+# About Me
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/42824199/164157041-766e75e3-3969-4b42-adef-f1d448edbc22.jpg width="225" height="300">
+</p>
+Hello and welcome to my webpage! My name is Bradley Diep and I'm currently in my 4th year at CSUF majoring in computer science. <br> <br> 
+
+I've always had a passion for drawing and designing things so I decided to apply my passion into computer science. When I started out as a freshman at CSUF, I was convinced that CS was just not cut out for me and that I should have been an animation major instead. However, I still chose to endure my CS classes and discovered that CS was actually pretty neat. I learned about game design, HTML, CSS, and other CS things related to my passion for drawing and design. I'm still not an expert at them though, but I'm still curious about how I can grow with my current knowledge. 
+
+When I'm not coding, I usually watch anime, watch videos on Youtube, or hang out with my friends. I still try to keep up with drawing on the side, but college has not made that easy for me. There's so many things I want to create, but I just have to do what I can while also making the most out of it. <br> <br>
+
+## Drawings I have made:
+<img src=https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG width="225" height="200"> <img src=https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg width="200" height="200"> <img src=https://user-images.githubusercontent.com/42824199/164166043-54d5f348-a839-4445-a8f9-dc770558b406.jpg width="200" height="200">
+
+## Pictures of me and my friends:
+<img src=https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png width="200" height="200"><img src=https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg width="200" height="225"> <br> 
+
+I'm especially proud of this picture because I had a chance to meet DisguisedToast and Sydeon from OfflineTV.
+<img src=https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg width="400" height="300">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Midknightsnack/Midknightsnack.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -27,14 +45,13 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-![pickachu](https://user-images.githubusercontent.com/42824199/163119089-dd5cd1a8-00a7-4005-adb6-0a7d76ec8744.PNG)
-
-<img src="https://user-images.githubusercontent.com/42824199/163117442-5fb5132a-96c8-4386-83e0-d1be5f781b5c.jpg" width="100" height="100"> <img src="https://user-images.githubusercontent.com/42824199/163119089-dd5cd1a8-00a7-4005-adb6-0a7d76ec8744.PNG" width="100" height="100">
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Midknightsnack/Midknightsnack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact Me
+- LinkedIn: https://www.linkedin.com/in/bradley-diep-2170451b2/
+- Email: braddiep1264@gmail.com
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
