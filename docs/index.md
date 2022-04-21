@@ -59,7 +59,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Midknightsnack/Midknightsnack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact Me
-- LinkedIn: https://www.linkedin.com/in/bradley-diep-2170451b2/
+- [LinkedIn](https://www.linkedin.com/in/bradley-diep-2170451b2/)
 - Email: braddiep1264@gmail.com
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
