@@ -10,9 +10,11 @@ I've always had a passion for drawing and designing things so I decided to apply
 When I'm not coding, I usually watch anime, videos on Youtube, or just hang out with my friends. I still try to keep up with drawing on the side, but college has not made that easy for me. There's so many things I want to create, but I just have to do what I can while also making the most out of it. <br> <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225"> <img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg" width="200" height="200">
-</p> <br> 
-
+  <img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg" width="200" height="200">
+</p> <br>
 I'm especially proud of this picture because I had a chance to meet [DisguisedToast](https://www.youtube.com/c/DisguisedToast) and [Sydeon](https://www.youtube.com/c/Neytiri) from [OfflineTV](https://www.youtube.com/c/OfflineTVgg). 🙂
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg" width="400" height="300">
