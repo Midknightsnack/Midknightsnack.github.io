@@ -7,7 +7,7 @@ Hello and welcome to my webpage! My name is Bradley Diep and I'm currently in my
 
 I've always had a passion for drawing and designing things so I decided to apply my passion into computer science. When I started out as a freshman at CSUF, I was convinced that CS was just not cut out for me and that I should have been an animation major instead. However, I chose to endure my CS classes and discovered that CS was actually pretty neat. I learned about game design, HTML, CSS, and other CS things related to my passion for drawing and design. I'm still not an expert at them though, but I'm still curious about how I can grow with my current knowledge. 
 
-When I'm not coding, I usually watch anime, videos on Youtube, or just hang out with my friends. I still try to keep up with drawing on the side, but college has not made that easy for me. There's so many things I want to create, but I just have to do what I can while also making the most out of it. <br> <br>
+When I'm not coding, I usually watch anime, videos on Youtube, or simply just hang out with my friends. I still try to keep up with drawing on the side, but college has not made that easy for me. There's so many things I want to create, but I just have to do what I can while also making the most out of it. <br> <br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225">
@@ -21,43 +21,23 @@ I'm especially proud of this picture because I had a chance to meet [DisguisedTo
 </p> <br>
 
 # Projects
-## Welcome to GitHub Pages
+### [tictactoe](https://github.com/yelynn1/tictactoe/pull/63)
+This was an open source project that I worked on. As the name implies, it's a game of tic-tac-toe, and it utilizes HTML and CSS. One of the game's features is a music toggle button, but that button had issues. The text on the music toggle button didn’t change to "Pause Music" when clicked on and it just stayed as “Play Music”. I took on the issue and fixed it while adding additional changes alongside the button to add some style. 
 
-You can use the [editor on GitHub](https://github.com/Midknightsnack/Midknightsnack.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### [To-doz](https://github.com/ZarmDev/To-doz/pull/3)
+This web application acts as a to-do list where the user can organize notes on a personalized checklist. The user can take notes by adding or deleting multiple panes to add titles and their descriptions. There is also a sidebar where the user can create sections to label more important things on their agenda. The web app also has a lot of customization features where the user can change the font, color theme, background image, and more. I fixed some animations with the sidebar and didn't make it collide with other datain its area.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [gamba](https://github.com/mechdragon23/gamba/pull/7)
+This is a C++ program that contains a simple collection of gambling games. I took up an issue that prompted to include a dice game. The dice game prompts the user to guess a number of what 2 dice will add up to. The game will randomly choose a number between 1 to 6 on each die and will add the total. If the player guesses correctly, they win. If the player doesn't guess correctly, they lose. 
 
-### Markdown
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/166623828-2e28e222-88b8-40d1-a6ae-85c1dbfff4c2.PNG" width="275" height="300">
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [how-to-html](https://github.com/Midknightsnack/how-to-html)
+This was an open source project that I created an it's a compilation of various things that can be coded in HTML. I thought this project would be a great open source repository for beginners of HTML and CSS to work on.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Midknightsnack/Midknightsnack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Contact Me
+# Contact Me
 - [LinkedIn](https://www.linkedin.com/in/bradley-diep-2170451b2/)
 - [GitHub](https://github.com/Midknightsnack)
 - Email: braddiep1264@gmail.com
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
