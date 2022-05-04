@@ -24,8 +24,16 @@ I'm especially proud of this picture because I had a chance to meet [DisguisedTo
 ### [tictactoe](https://github.com/yelynn1/tictactoe/pull/63)
 This was an open source project that I worked on. As the name implies, it's a game of tic-tac-toe, and it utilizes HTML and CSS. One of the game's features is a music toggle button, but that button had issues. The text on the music toggle button didn’t change to "Pause Music" when clicked on and it just stayed as “Play Music”. I took on the issue and fixed it while adding additional changes alongside the button to add some style. 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/166836964-27778689-750d-4a8b-b390-efe020402d2e.gif" width="600" height="300">
+</p>
+
 ### [To-doz](https://github.com/ZarmDev/To-doz/pull/3)
 This web application acts as a to-do list where the user can organize notes on a personalized checklist. The user can take notes by adding or deleting multiple panes to add titles and their descriptions. There is also a sidebar where the user can create sections to label more important things on their agenda. The web app also has a lot of customization features where the user can change the font, color theme, background image, and more. I fixed some animations with the sidebar and didn't make it collide with other datain its area.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/166837609-50764fb4-0a53-48e2-832e-838377dc1a1f.PNG" width="600" height="300">
+</p>
 
 ### [gamba](https://github.com/mechdragon23/gamba/pull/7)
 This is a C++ program that contains a simple collection of gambling games. I took up an issue that prompted to include a dice game. The dice game prompts the user to guess a number of what 2 dice will add up to. The game will randomly choose a number between 1 to 6 on each die and will add the total. If the player guesses correctly, they win. If the player doesn't guess correctly, they lose. 
