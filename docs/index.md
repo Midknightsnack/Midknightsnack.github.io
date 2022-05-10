@@ -29,7 +29,7 @@ C++, Python, X86 Assembly, HTML, CSS, Javascript
 Hungry Helpers is a group project that I worked on and it's a food planner web application that allows users to plan their meals. In the project, I worked on creating a clickable calendar where clicking on a date would present the user with a modal. Users can use that modal to plan out the meals they have throughout the day. It's currently incomplete and not as ambitious as I wanted it to be, but I like how it turned out so far. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/167345295-d7701d1c-54c8-4506-9e61-5d016649bab5.gif" width="600" height="300">
+  <img src="https://user-images.githubusercontent.com/42824199/167345295-d7701d1c-54c8-4506-9e61-5d016649bab5.gif">
 </p>
 
 ### [tictactoe](https://github.com/yelynn1/tictactoe/pull/63)
@@ -40,7 +40,7 @@ This was my first open source project that I contributed on. As the name implies
 </p>
 
 ### [To-doz](https://github.com/ZarmDev/To-doz/pull/3)
-This was another open source project that I contributed to and it's web application acts as a to-do list where the user can organize notes on a personalized checklist. The user can take notes by adding or deleting multiple panes to add titles and their descriptions. There is also a sidebar where the user can create sections to label more important things on their agenda. The web app also has a lot of customization features where the user can change the font, color theme, background image, and more. I fixed some animations with the sidebar and didn't make it collide with other data in its area.
+This was another open source project that I contributed to and it's web application that acts as a to-do list where the user can organize notes on a personalized checklist. The user can take notes by adding or deleting multiple panes to add titles and their descriptions. There is also a sidebar where the user can create sections to label more important things on their agenda. The web app also has a lot of customization features where the user can change the font, color theme, background image, and more. I fixed some animations with the sidebar and adjusted it so it wouldn't collide with other data in its area.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/166837609-50764fb4-0a53-48e2-832e-838377dc1a1f.PNG" width="600" height="300">
@@ -54,7 +54,7 @@ This was the first open source project that I created, and it's a compilation of
 </p> 
 
 ### [gamba](https://github.com/mechdragon23/gamba/pull/7)
-This is a C++ program that contains a simple collection of gambling games. I took up an issue that prompted to include a dice game. The dice game prompts the user to guess a number of what 2 dice will add up to. The game will randomly choose a number between 1 to 6 on each die and will add the total. If the player guesses correctly, they win. If the player doesn't guess correctly, they lose. 
+This is a C++ program that contains a simple collection of gambling games. I took up an issue that prompted to include a dice game. The dice game prompts the user to guess a number of what 2 dice will add up to. The game will randomly choose a number between 1 to 6 on each die and add the total. If the player guesses correctly, they win. If the player doesn't guess correctly, they lose. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/166623828-2e28e222-88b8-40d1-a6ae-85c1dbfff4c2.PNG" width="450" height="450">
