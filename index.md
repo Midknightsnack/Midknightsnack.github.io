@@ -34,11 +34,10 @@ This was the first open source project that I created, and it's a compilation of
 
 ### [Space Invaders](https://github.com/Midknightsnack/Space_Invaders)
 This was a project that I did for my game design class and it's a recreation of the classic game, Space Invaders. The game was made using Pygame and my professor provided most of the code so that the game can function correctly. In this project, I had to stylize the game by adding sounds and designing alien sprites using sprite editors. I also had to adjust the ship, alien, and laser functionalities to make the game feel balanced.
-<br> <br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/209053345-0ad2c1b3-d27c-410a-8d1c-929f97d235fc.gif">
-</p>
+</p> <br> <br>
 
 ## Gallery
 <p align="center">
