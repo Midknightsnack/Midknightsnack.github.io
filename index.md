@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg" width="225" height="300">
 </p>
 
-Hello and welcome to my portfolio! My name is Bradley Diep and I've recently graduated from CSUF with a Bachelor's Degrees in computer science. When I'm not coding, I usually draw, watch shows, play video games, or just hang out with my friends. 
+Hello and welcome to my portfolio! My name is Bradley Diep and I've recently graduated from CSUF with a Bachelor's Degree in computer science. When I'm not coding, I usually draw, watch shows, play video games, or just hang out with my friends. 
 
 I've always had a passion for drawing and designing things so I decided to apply my passion into computer science. When I started out as a freshman at CSUF, I was convinced that CS was just not cut out for me and that I should have been an animation major instead. I was genuinely struggling with concepts and it felt like I was falling behind everyone else. However, I decided to continue pursuing CS coursework and discovered that CS was actually pretty neat. I learned about HTML, CSS, game design, and other CS topics related to my passion for drawing and design. I'm still not an expert at them, but I'm willing to learn more to grow with my current coding knowledge. I'm open for any opportunities to enhance my career and abilities. <br> <br>
 
