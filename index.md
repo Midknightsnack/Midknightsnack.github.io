@@ -37,7 +37,7 @@ This was a project that I did for my game design class and it's a recreation of 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/209053345-0ad2c1b3-d27c-410a-8d1c-929f97d235fc.gif">
-</p> <br> <br>
+</p> <br>
 
 # Gallery
 <p align="center">
