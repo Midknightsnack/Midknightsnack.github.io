@@ -3,21 +3,9 @@
   <img src="https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg" width="225" height="300">
 </p>
 
-Hello and welcome to my portfolio! My name is Bradley Diep and I've recently graduated from CSUF as a computer science major. When I'm not coding, I usually draw, watch shows, play video games, or just hang out with my friends. 
+Hello and welcome to my portfolio! My name is Bradley Diep and I've recently graduated from CSUF with a Bachelor's Degrees in computer science. When I'm not coding, I usually draw, watch shows, play video games, or just hang out with my friends. 
 
 I've always had a passion for drawing and designing things so I decided to apply my passion into computer science. When I started out as a freshman at CSUF, I was convinced that CS was just not cut out for me and that I should have been an animation major instead. I was genuinely struggling with concepts and it felt like I was falling behind everyone else. However, I decided to continue pursuing CS coursework and discovered that CS was actually pretty neat. I learned about HTML, CSS, game design, and other CS topics related to my passion for drawing and design. I'm still not an expert at them, but I'm willing to learn more to grow with my current coding knowledge. I'm open for any opportunities to enhance my career and abilities. <br> <br>
-
-## Gallery
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg" width="200" height="200">
-</p> <br>
-I'm especially proud of this picture because I had a chance to meet famous Twitch streamers, [DisguisedToast](https://www.youtube.com/c/DisguisedToast) and [Sydeon](https://www.youtube.com/c/Neytiri) from [OfflineTV](https://www.youtube.com/c/OfflineTVgg).
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg" width="400" height="300">
-</p> <br>
 
 # Projects/Coursework
 ### Programming Languages:  
@@ -50,6 +38,18 @@ This was a project that I did for my game design class and it's a recreation of 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/209053345-0ad2c1b3-d27c-410a-8d1c-929f97d235fc.gif">
 </p>
+
+## Gallery
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg" width="200" height="200">
+</p> <br>
+I'm especially proud of this picture because I had a chance to meet famous Twitch streamers, [DisguisedToast](https://www.youtube.com/c/DisguisedToast) and [Sydeon](https://www.youtube.com/c/Neytiri) from [OfflineTV](https://www.youtube.com/c/OfflineTVgg).
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg" width="400" height="300">
+</p> <br>
 
 # Contact Me
 - [LinkedIn](https://www.linkedin.com/in/bradley-diep-2170451b2/)
