@@ -39,7 +39,7 @@ This was a project that I did for my game design class and it's a recreation of 
   <img src="https://user-images.githubusercontent.com/42824199/209053345-0ad2c1b3-d27c-410a-8d1c-929f97d235fc.gif">
 </p> <br> <br>
 
-## Gallery
+# Gallery
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225">
 </p>
