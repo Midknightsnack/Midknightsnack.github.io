@@ -11,7 +11,7 @@ I've always had a passion for drawing and designing things so I decided to apply
 ### Programming Languages:  
 C++, Python, HTML, CSS, X86 Assembly, Javascript
 
-### [Hungry_Helpers](https://github.com/Midknightsnack/Hungry_Helpers)
+### [Hungry Helpers](https://github.com/Midknightsnack/Hungry_Helpers)
 Hungry Helpers is a group project that I worked on and it's a food planner web application that allows users to plan their meals. In the project, I worked on creating a clickable calendar where clicking on a date would present the user with a modal. Users can use that modal to plan out the meals they have throughout the day. It's currently incomplete and not as ambitious as I wanted it to be, but I like how it turned out so far. 
 
 <p align="center">
