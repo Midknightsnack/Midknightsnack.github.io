@@ -19,7 +19,7 @@ Hungry Helpers is a group project that I worked on and it's a food planner web a
 </p>
 
 ### [Burger Bistro](https://github.com/Midknightsnack/CPSC-254-Project)
-Burger Bistro is another group project that I worked on and it utilizes the GTK library to make the GUI. It's a made-up restaurant with features that any other fast food restaurant has, but the catch is that this restaurant has a deluxe menu rather than a dollar menu. This means that the user is encouraged to spend more for the food. In this project, I was in charge of creating the menu and a search feature where the user can search for any item on the menu. For example, if the user typed "chicken" in the search bar, items with chicken in them will display.
+Burger Bistro is another group project that I worked on and it utilizes the GTK library to make the GUI in a Linux environment. It's a made-up restaurant with features that any other fast food restaurant has, but the catch is that this restaurant has a deluxe menu rather than a dollar menu. This means that the user is encouraged to spend more for the food. In this project, I was in charge of creating the menu and a search feature where the user can search for any item on the menu. For example, if the user typed "chicken" in the search bar, items with chicken in them will display.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/209037865-f10c4d2b-8f79-4811-82a2-1d482a2e6684.gif">
