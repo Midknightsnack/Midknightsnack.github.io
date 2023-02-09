@@ -25,27 +25,29 @@ Burger Bistro is another group project that I worked on and it utilizes the GTK 
   <img src="https://user-images.githubusercontent.com/42824199/209037865-f10c4d2b-8f79-4811-82a2-1d482a2e6684.gif">
 </p>
 
-### [how-to-html](https://github.com/Midknightsnack/how-to-html)
-This was the first open source project that I created, and it's a compilation of various things that can be coded in HTML. I thought this project would be a great open source repository for beginners of HTML and CSS to work on.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/209053124-8f3992ff-97cf-48f4-af5c-7855e9e7cdcc.gif">
-</p>
-
 ### [Space Invaders](https://github.com/Midknightsnack/Space_Invaders)
 This was a project that I did for my game design class and it's a recreation of the classic game, Space Invaders. The game was made using Pygame and my professor provided most of the code so that the game can function correctly. In this project, I had to stylize the game by adding sounds and designing alien sprites using sprite editors. I also had to adjust the ship, alien, and laser functionalities to make the game feel balanced.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/209053345-0ad2c1b3-d27c-410a-8d1c-929f97d235fc.gif">
+</p>
+
+### [how-to-html](https://github.com/Midknightsnack/how-to-html)
+This was the first open source project that I created, and it's a compilation of various things that can be coded in HTML. I thought this project would be a great open source repository for beginners of HTML and CSS to work on.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42824199/209053124-8f3992ff-97cf-48f4-af5c-7855e9e7cdcc.gif">
 </p> <br>
 
 # Gallery
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/164164483-10fc6e9b-05c0-40dd-be2d-c9bf9729b9a1.png" width="200" height="200"><img src="https://user-images.githubusercontent.com/42824199/164165628-37939e76-434f-4dc6-a03a-0c47db8dc4d3.jpg" width="200" height="225">
 </p>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/164166032-94e14ac1-7106-41e3-acfe-33297782aa1e.jpg" width="200" height="200">
+  <img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/217930801-0fc7d77a-de0f-4263-8f81-635827d20dc7.PNG" width="200" height="225">
 </p> <br>
+
 I'm especially proud of this picture because I had a chance to meet famous Twitch streamers, [DisguisedToast](https://www.youtube.com/c/DisguisedToast) and [Sydeon](https://www.youtube.com/c/Neytiri) from [OfflineTV](https://www.youtube.com/c/OfflineTVgg).
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/164164620-862144be-fb3f-4381-a890-1f29addb3cc5.jpg" width="400" height="300">
