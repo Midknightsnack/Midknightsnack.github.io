@@ -12,21 +12,21 @@ I've always had a passion for drawing and designing things so I decided to apply
 C++, Python, HTML, CSS, X86 Assembly, Javascript
 
 ### [Hungry Helpers](https://github.com/Midknightsnack/Hungry_Helpers)
-Hungry Helpers is a group project that I worked on and it's a food planner web application that allows users to plan their meals. In the project, I worked on creating a clickable calendar where clicking on a date would present the user with a modal. Users can use that modal to plan out the meals they have throughout the day. It's currently incomplete and not as ambitious as I wanted it to be, but I like how it turned out so far. 
+Hungry Helpers is a group project that I worked on and it's a food planner web application that allows users to plan their meals. In the project, I worked on creating a clickable calendar where clicking on a date would present the user with a modal. Users can use that modal to plan out the meals they have throughout the day. They can input their meal, the time to eat their meal, and the time to be notified of when to eat their meal.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/167345295-d7701d1c-54c8-4506-9e61-5d016649bab5.gif">
 </p>
 
 ### [Burger Bistro](https://github.com/Midknightsnack/CPSC-254-Project)
-Burger Bistro is another group project that I worked on and it utilizes the GTK library to make the GUI in a Linux environment. It's a made-up restaurant with features that any other fast food restaurant has, but the catch is that this restaurant has a deluxe menu rather than a dollar menu. This means that the user is encouraged to spend more for the food. In this project, I was in charge of creating the menu and a search feature where the user can search for any item on the menu. For example, if the user typed "chicken" in the search bar, items with chicken in them will display.
+Burger Bistro is another group project that I worked on, and it's a fictional restaurant with features that any other fast food restaurant has, but the catch is that this restaurant has a deluxe menu rather than a dollar menu. This means that the user is encouraged to spend more for the food. The project utilizes the GTK library of C++ to make the GUI in the Linux environment, Kubunutu. I was in charge of creating the menu and a search feature where the user can search for any item on the menu. For example, if the user typed "chicken" in the search bar, items with chicken in them will display. I also used CSS to input my drawings of the menu and background of Burger Bistro onto the GUI.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/209037865-f10c4d2b-8f79-4811-82a2-1d482a2e6684.gif">
 </p>
 
 ### [Space Invaders](https://github.com/Midknightsnack/Space_Invaders)
-This was a project that I did for my game design class and it's a recreation of the classic game, Space Invaders. The game was made using Pygame and my professor provided most of the code so that the game can function correctly. In this project, I had to stylize the game by adding sounds and designing alien sprites using sprite editors. I also had to adjust the ship, alien, and laser functionalities to make the game feel balanced.
+This was a project that I did for my game design class and it's a recreation of the classic game, Space Invaders, in Python. Using the functions of the Pygame package in Python, I had to adjust the ship, alien, and laser functionalities to make the game feel balanced. I also had to stylize the game by adding sounds and created unique sprites using the sprite editor, Piskel.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/209053345-0ad2c1b3-d27c-410a-8d1c-929f97d235fc.gif">
@@ -45,7 +45,7 @@ This was the first open source project that I created, and it's a compilation of
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/217930801-0fc7d77a-de0f-4263-8f81-635827d20dc7.PNG" width="200" height="225">
+  <img src="https://user-images.githubusercontent.com/42824199/164163690-6fe14e16-95c0-47d6-9e2f-8d8b35f32c4d.PNG" width="225" height="200"> <img src="https://user-images.githubusercontent.com/42824199/217930801-0fc7d77a-de0f-4263-8f81-635827d20dc7.PNG" width="200" height="250">
 </p> <br>
 
 I'm especially proud of this picture because I had a chance to meet famous Twitch streamers, [DisguisedToast](https://www.youtube.com/c/DisguisedToast) and [Sydeon](https://www.youtube.com/c/Neytiri) from [OfflineTV](https://www.youtube.com/c/OfflineTVgg).
