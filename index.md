@@ -3,23 +3,23 @@
   <img src="https://user-images.githubusercontent.com/42824199/164182149-c142ea48-9bd2-49f5-a190-ec1e367e54e0.jpg" width="225" height="300">
 </p>
 
-Hello and welcome to my portfolio! My name is Bradley Diep and I've recently graduated from CSUF with a Bachelor's Degree in computer science. When I'm not coding, I usually draw, watch shows, play video games, or just hang out with my friends. 
+My name is Bradley Diep and I've recently graduated from CSUF with a Bachelor's Degree in computer science. When I'm not coding, I usually draw, watch shows, play video games, or just hang out with my friends. 
 
 I've always had a passion for drawing and designing things so I decided to apply my passion into computer science. When I started out as a freshman at CSUF, I was convinced that CS was just not cut out for me and that I should have been an animation major instead. I was genuinely struggling with concepts and it felt like I was falling behind everyone else. However, I decided to continue pursuing CS coursework and discovered that CS was actually pretty neat. I learned about HTML, CSS, game design, and other CS topics related to my passion for drawing and design. I'm still not an expert at them, but I'm willing to learn more to grow with my current coding knowledge. I'm open for any opportunities to enhance my career and abilities. <br> <br>
 
 # Projects/Coursework
 ### Programming Languages:  
-C++, Python, HTML, CSS, X86 Assembly, Javascript
+Python, C++, HTML, CSS, X86 Assembly, Javascript
 
 ### [Hungry Helpers](https://github.com/Midknightsnack/Hungry_Helpers)
-Hungry Helpers is a group project that I worked on and it's a food planner web application that allows users to plan their meals. In the project, I worked on creating a clickable calendar where clicking on a date would present the user with a modal. Users can use that modal to plan out the meals they have throughout the day. They can input their meal, the time to eat their meal, and the time to be notified of when to eat their meal.
+Hungry Helpers is a group project that I worked on and it's a food planner web application that allows users to plan their meals. This project utlizes React to run the project application. It also uses HTML, CSS, Javascript, and SQL. I worked on creating a clickable calendar where clicking on a date would present the user with a modal. Users can use that modal to plan out the meals they have throughout the day. They can input their meal, the time to eat their meal, and the time to be notified of when to eat their meal.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/167345295-d7701d1c-54c8-4506-9e61-5d016649bab5.gif">
 </p>
 
 ### [Burger Bistro](https://github.com/Midknightsnack/CPSC-254-Project)
-Burger Bistro is another group project that I worked on, and it's a fictional restaurant with features that any other fast food restaurant has, but the catch is that this restaurant has a deluxe menu rather than a dollar menu. This means that the user is encouraged to spend more for the food. The project utilizes the GTK library of C++ to make the GUI in the Linux environment, Kubunutu. I was in charge of creating the menu and a search feature where the user can search for any item on the menu. For example, if the user typed "chicken" in the search bar, items with chicken in them will display. I also used CSS to input my drawings of the menu and background of Burger Bistro onto the GUI.
+Burger Bistro is another group project that I worked on, and it's a fictional restaurant with features that any other fast food restaurant has, but the catch is that this restaurant has a deluxe menu rather than a dollar menu. This means that the user is encouraged to spend more for the food. The project utilizes the GTK library of C++ to make the GUI in the Linux environment, Kubuntu. I was in charge of creating the menu and a search feature where the user can search for any item on the menu. For example, if the user typed "chicken" in the search bar, items with chicken in them will display. I also used CSS to input my drawings of the menu and background of Burger Bistro onto the GUI.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/209037865-f10c4d2b-8f79-4811-82a2-1d482a2e6684.gif">
