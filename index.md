@@ -18,11 +18,11 @@ Hungry Helpers is a group project that I worked on and it's a food planner web a
   <img src="https://user-images.githubusercontent.com/42824199/167345295-d7701d1c-54c8-4506-9e61-5d016649bab5.gif">
 </p>
 
-### [Burger Bistro](https://github.com/Midknightsnack/CPSC-254-Project)
-Burger Bistro is another group project that I worked on, and it's a fictional restaurant with features that any other fast food restaurant has, but the catch is that this restaurant has a deluxe menu rather than a dollar menu. This means that the user is encouraged to spend more for the food. The project utilizes the GTK library of C++ to make the GUI in the Linux environment, Kubuntu. I was in charge of creating the menu and a search feature where the user can search for any item on the menu. For example, if the user typed "chicken" in the search bar, items with chicken in them will display. I also used CSS to input my drawings of the menu and background of Burger Bistro onto the GUI.
+### [Burger Bistro DX](https://github.com/Midknightsnack/Burger-Bistro-DX)
+Burger Bistro DX (or Burger Bistro Deluxe) is a personal project based on a group project that I worked on in college. Burger Bistro DX is a fictional restaurant with features that any other fast food restaurant has, but the catch is that this restaurant has a deluxe menu rather than a dollar menu. The original [Burger Bistro](https://github.com/Midknightsnack/CPSC-254-Project) was incomplete because of the lack of coding knowledge and time. Now it's completed using HTML, CSS, and Javascript. All images in this project are drawn by me.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/209037865-f10c4d2b-8f79-4811-82a2-1d482a2e6684.gif">
+  <img src="https://user-images.githubusercontent.com/42824199/231877380-2604bf28-a33a-4bc1-84c1-1594fe119ec4.gif">
 </p>
 
 ### [Space Invaders](https://github.com/Midknightsnack/Space_Invaders)
@@ -30,13 +30,6 @@ This was a project that I did for my game design class and it's a recreation of 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42824199/209053345-0ad2c1b3-d27c-410a-8d1c-929f97d235fc.gif">
-</p>
-
-### [how-to-html](https://github.com/Midknightsnack/how-to-html)
-This was the first open source project that I created, and it's a compilation of various things that can be coded in HTML. I thought this project would be a great open source repository for beginners of HTML and CSS to work on.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/42824199/209053124-8f3992ff-97cf-48f4-af5c-7855e9e7cdcc.gif">
 </p> <br>
 
 # Gallery
